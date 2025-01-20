@@ -18,22 +18,22 @@
    - **Afghanistan** leads in spending by location with **56K**, followed by **Tanzania** (**50K**) and **Armenia** (**42K**).
 
 ### 5. Service Usage:
-   - The most utilized service is **STL 1** (155), followed by **STL 2** (150), **Exp** (149), and **Eva** (146).
+   - The most utilized service is **Eva** (155), followed by **STL 1** (150), **Exp** (149), and **STL 2** (146).
 
 ### 6. Membership Insights:
    - **Bronze** members contribute the highest transaction amount (**107K**), followed by **Silver** (**104K**) and **Gold** (**97K**).
-   - Membership distribution is led by **Silver** members (**164**), followed by **Bronze** (**150**).
+   - Membership distribution is led by **Bronze** members (**164**), followed by **Gold** (**150**).
 
 ### 7. Gender Analysis:
    - Gender representation is nearly equal, with **271 Male** and **270 Female** members.
-   - Other gender identities have lower representation, each with fewer than **11 members**.
+   - Other gender identities have lower representation, each with fewer than **12 members**.
 
 ### 8. Age Group Analysis:
    - The **28-32 age group** accounts for the highest transaction amount (**144K**), followed by **18-22** (**128K**) and **23-27** (**124K**).
 
 ### 9. Monthly Trends:
    - **March 2023** recorded the highest transaction count (**51 transactions**), showing a significant rise compared to previous months.
-   - Notable increases in transaction activity were seen from **June to September 2023**.
+   - Notable increases in transaction activity were seen from **June to October 2022**.
 
 ### 10. Regional Service Patterns:
    - Transaction activity is concentrated in **Africa and Europe**, with visual clusters around these regions.
